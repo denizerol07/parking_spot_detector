@@ -70,8 +70,4 @@ MIN_ALAN = 2000         # Minimum çerçeve boyutu
 
 **Deniz Erol**
 
-## 📄 Lisans
-
-MIT
-
 ---
